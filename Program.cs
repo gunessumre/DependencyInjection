@@ -5,6 +5,7 @@ Console.Clear();
 Teacher teacher = new Teacher("Martin", "Eden");
 sailorTeacher sailorTeacher = new sailorTeacher("Jack", "London", "Sailor");
 
+
 Classrom classrom = new Classrom(teacher);
 
 if (sailorTeacher != null)
